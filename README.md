@@ -1,4 +1,3 @@
-```markdown
 # 🧠 RHealth — Bipolar Disorder Companion App
 
 <p align="center">
