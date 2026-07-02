@@ -43,10 +43,10 @@ RHealth is a **self-management and adherence-support tool**. It is **not** a med
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="200" alt="Home"/>
-  <img src="screenshots/medications.png" width="200" alt="Medications"/>
-  <img src="screenshots/evaluation.png" width="200" alt="Daily Evaluation"/>
-  <img src="screenshots/reminders.png" width="200" alt="Reminders"/>
+  <img src="screenshot/1.jpg" width="200" alt=""/>
+  <img src="screenshot/2.jpg" width="200" alt=""/>
+  <img src="screenshot/3.jpg" width="200" alt=""/>
+  <img src="screenshot/4.jpg" width="200" alt=""/>
 </p>
 
 ---
